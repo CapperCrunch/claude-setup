@@ -11,6 +11,7 @@ My personal Claude Code configuration — custom skills, settings, and dotfiles,
 | **caveman** | Ultra-compressed communication mode. Cuts token usage ~75%. |
 | **find-skills** | Helps discover and install agent skills from the ecosystem. |
 | **grill-me** | Stress-tests plans and designs by interviewing you relentlessly. |
+| **arch-coach** | Architectural Review Coach. Tests you on code review skills across 6 exercise types and 5 languages. |
 
 ### Config
 

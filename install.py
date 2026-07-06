@@ -27,7 +27,7 @@ BACKUP_DIR = CLAUDE_DIR / "backup" / datetime.now().strftime("%Y%m%d_%H%M%S")
 
 # ── What to install ────────────────────────────────────────────────────────
 
-SKILLS = ["caveman", "find-skills", "grill-me"]
+SKILLS = ["caveman", "find-skills", "grill-me", "arch-coach"]
 CONFIG_FILES = ["settings.json", "CLAUDE.md"]
 
 
